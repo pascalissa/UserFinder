@@ -6,7 +6,7 @@ This tool searchs all your defined urls for the given username. It checkes for e
 ## Legal disclaimer
 I've written this tool which is not intended to do illegal stuff. I'm not responsible if you break the law.
 
-## prequesites
+## Prerequisites
 
 Python2.x
 
